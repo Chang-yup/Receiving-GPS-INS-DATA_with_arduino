@@ -43,3 +43,5 @@ https://github.com/GLAY-AK2/NTRIP-client-for-Arduino
 Set baudrate with GPS-WiFi, GPS-Arduino
 
 If you don't want RTK, you don't have to connect the Wi-Fi module.
+
+You must set how many times you want to receive imu data in one second.  **(for_arduino 84th line, while(n<22))** **You must set it to not exceed 1000ms.**
