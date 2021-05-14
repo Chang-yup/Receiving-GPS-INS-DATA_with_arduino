@@ -12,6 +12,15 @@ NTRIP Client for Arduino
 https://github.com/GLAY-AK2/NTRIP-client-for-Arduino
 
 
+# Equipments
+
+ Arduino DUE
+ 
+ NodeMCU ESP8266 Wi-Fi Module
+ 
+ C099-F9P GPS Module
+
+
 # How to use
 
 1. Connect Wi-Fi Module TX to GPS Module RX
