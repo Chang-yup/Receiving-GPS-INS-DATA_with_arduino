@@ -1,4 +1,4 @@
-# Receiving GPS/INS DATA with Arduino
+# Receiving GPS/INS DATA with Arduino DUE
 https://youtu.be/ZbwTwUUQbUk
 
 
