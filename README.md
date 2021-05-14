@@ -40,7 +40,7 @@ https://github.com/GLAY-AK2/NTRIP-client-for-Arduino
 
 # Precautions
 
-Set baudrate with GPS-WiFi, GPS-Arduino
+Set baudrate (GPS-WiFi, GPS-Arduino)
 
 If you don't want RTK, you don't have to connect the Wi-Fi module.
 
