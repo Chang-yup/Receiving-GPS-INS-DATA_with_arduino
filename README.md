@@ -19,6 +19,8 @@ https://github.com/GLAY-AK2/NTRIP-client-for-Arduino
  NodeMCU ESP8266 Wi-Fi Module
  
  C099-F9P GPS Module
+ 
+ MPU-9250 IMU Sensor
 
 
 # How to use
