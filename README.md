@@ -27,7 +27,7 @@ https://github.com/GLAY-AK2/NTRIP-client-for-Arduino
 6. Download 'for_arduino.ino' and upload it
 
 
-#Precautions
+# Precautions
 
 Set baudrate with GPS-WiFi, GPS-Arduino
 
