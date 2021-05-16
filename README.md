@@ -44,4 +44,4 @@ Set baudrate (GPS-WiFi, GPS-Arduino)
 
 If you don't want RTK, you don't have to connect the Wi-Fi module.
 
-You must set how many times you want to receive imu data in one second.  **(for_arduino 84th line, while(n<22))** **You must set it to not exceed 1000ms.**
+You must set how many times you want to receive imu data in one second.  **(for_arduino 84th line, while(n<22))** **ms must be set to not exceed gps update period.**
